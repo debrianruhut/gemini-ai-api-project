@@ -1,3 +1,19 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # **Server API Google Gemini AI dengan Node.js**
 
 Proyek ini menyediakan server backend sederhana yang dibuat dengan **Node.js** dan **Express.js** untuk berinteraksi dengan Google Gemini AI API. Server ini mengekspos beberapa endpoint RESTful untuk menangani berbagai jenis input: teks, gambar, dokumen, dan audio, menjadikannya fondasi yang kuat untuk membangun aplikasi AI yang lebih kompleks.
@@ -152,5 +168,19 @@ Kontribusi selalu diterima! Jika Anda ingin meningkatkan proyek ini, silakan for
 5. Buka *Pull Request*.
 
 ## **📄 Lisensi**
-
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detailnya.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/debrianruhut/gemini-ai-api-project.svg?style=for-the-badge
+[contributors-url]: https://github.com/debrianruhut/gemini-ai-api-project/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/debrianruhut/gemini-ai-api-project.svg?style=for-the-badge
+[forks-url]: https://github.com/debrianruhut/gemini-ai-api-project/network/members
+[stars-shield]: https://img.shields.io/github/stars/debrianruhut/gemini-ai-api-project.svg?style=for-the-badge
+[stars-url]: https://github.com/debrianruhut/gemini-ai-api-project/stargazers
+[issues-shield]: https://img.shields.io/github/issues/debrianruhut/gemini-ai-api-project.svg?style=for-the-badge
+[issues-url]: https://github.com/debrianruhut/gemini-ai-api-project/issues
+[license-shield]: https://img.shields.io/github/license/debrianruhut/gemini-ai-api-project.svg?style=for-the-badge
+[license-url]: https://github.com/debrianruhut/gemini-ai-api-project/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/debrian-ruhut-saragih
